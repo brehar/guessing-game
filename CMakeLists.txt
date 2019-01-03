@@ -1,0 +1,3 @@
+add_executable(ClassStructOverview ClassStructOverview.cpp)
+add_executable(ClassesVsStructs ClassesVsStructs.cpp)
+add_executable(CasinoGuessingGame main.cpp)
